@@ -1,5 +1,5 @@
 === WhatsApp Order Button for WooCommerce ===
-Contributors: aliakbar45480
+Contributors: aliakbarrme
 Tags: whatsapp, woocommerce, order, chat, button
 Requires at least: 5.8
 Tested up to: 6.5
